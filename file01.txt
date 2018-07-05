@@ -1,8 +1,5 @@
 num1 = 10
 num2 = 20
 num3 = 30
-<<<<<<< HEAD
 num4 = 400
-=======
-num4 = 40
->>>>>>> afbce1d5fc4270d4e5b54f35ee1696b299b8ad6f
+
